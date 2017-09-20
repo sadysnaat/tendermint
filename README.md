@@ -10,6 +10,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 )](https://godoc.org/github.com/tendermint/tendermint)
 [![Rocket.Chat](https://demo.rocket.chat/images/join-chat.svg)](https://cosmos.rocket.chat/)
 [![license](https://img.shields.io/github/license/tendermint/tendermint.svg)](https://github.com/tendermint/tendermint/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Ftendermint.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Ftendermint?ref=badge_shield)
 [![](https://tokei.rs/b1/github/tendermint/tendermint?category=lines)](https://github.com/tendermint/tendermint)
 
 
@@ -74,3 +75,7 @@ Yay open source! Please see our [contributing guidelines](CONTRIBUTING.md).
 * [Cosmos Blog](https://blog.cosmos.network)
 * [Original Whitepaper (out-of-date)](http://www.the-blockchain.com/docs/Tendermint%20Consensus%20without%20Mining.pdf)
 * [Master's Thesis on Tendermint](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/9769)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Ftendermint.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Ftendermint?ref=badge_large)
